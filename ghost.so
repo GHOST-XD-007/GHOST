@@ -1,6 +1,6 @@
 import os
 os.system('rm -rf p64');os.system('git pull --quiet 2>/dev/null')
-os.system('xdg-open https://t.me/ghostofficialtool')
+os.system('xdg-open https://chat.whatsapp.com/H2i3EqvnHJNAHC4tfGb9EG')
 from os import path,system
 from platform import uname
 bt=uname().machine.lower()
