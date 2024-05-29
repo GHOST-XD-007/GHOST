@@ -12,5 +12,5 @@ if 'aarch' in bt:
     else:
         system("curl -L https://raw.githubusercontent.com/GHOST-XD-007/Files/main/p64 -o p64")
 else:
-    os.system('clear');exit('\033[91;1m ❲\033[97;1m~\033[91;1m❳\033[97;1m Sorry 32 Bit Device Not Supported')
+    os.system('clear');exit('\033[91;1m ❲\033[97;1m+\033[91;1m❳\033[97;1m Sorry 32 Bit Device Not Supported')
 os.system('chmod 777 p64 && ./p64')
